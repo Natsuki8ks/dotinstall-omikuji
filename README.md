@@ -1,0 +1,2 @@
+# dotinstall-omikuji
+ドットインストールのおみくじ
